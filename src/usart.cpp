@@ -1,3 +1,4 @@
+//simplified 8-bit USART communication
 #ifndef F_CPU
 #define F_CPU 16000000UL
 #endif
